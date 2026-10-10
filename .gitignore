@@ -17,5 +17,3 @@ __pycache__/
 # Exclude editor settings
 .vscode/
 
-# Exclude GIFs
-*.gif
