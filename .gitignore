@@ -1,0 +1,21 @@
+# Exclude PDFs
+*.pdf
+
+# Exclude datasets
+*.npz
+
+# Exclude temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Exclude private files
+.env
+.env.*
+!.env.example
+
+# Exclude editor settings
+.vscode/
+
+# Exclude GIFs
+*.gif
